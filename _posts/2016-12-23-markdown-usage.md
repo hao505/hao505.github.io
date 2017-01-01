@@ -8,9 +8,4 @@ title: markdown基本用法介绍
 2. 引用语法
 3. 强调语法
 
-
-`顶顶顶顶顶顶顶`
-```lkdjfdfsdlfkjdsk顶顶顶顶顶顶顶顶
-sdfsdf
-sdfsdfs
-sdfsdsffsdf```
+*我并没有写完，待续...*
